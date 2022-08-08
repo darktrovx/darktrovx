@@ -6,4 +6,7 @@
     </td>
   </tr>
 </p>
+<p>
+https://discord.gg/vrVYx6tce5
+</p>
 
