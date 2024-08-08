@@ -7,6 +7,7 @@
   </tr>
 </p>
 <p align="center">
-[My Discord](https://discord.gg/vmdptRsGAV)
+My Discord
+https://discord.gg/vmdptRsGAV
 </p>
 
