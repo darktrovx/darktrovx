@@ -7,6 +7,6 @@
   </tr>
 </p>
 <p align="center">
-https://discord.gg/vrVYx6tce5
+[My Discord](https://discord.gg/vmdptRsGAV)
 </p>
 
